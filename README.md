@@ -1,13 +1,13 @@
 
-#  Cineflix Website Clone
+#  Shopping Cart
 
-Clone of cineflix website
+Shopping Cart using Javascript
 
 
 
 ## 💻 Demo
 
-[Cineflix Clone Website Link](https://cineflix-movie-website-by-tushar.netlify.app/)
+[Website Link](https://shopping-cart-by-tushar.netlify.app/)
 
 
 ## 📍 Run Locally
@@ -15,7 +15,7 @@ Clone of cineflix website
 Clone the project
 
 ```bash
-  git clone https://github.com/Tushar-goyal-2712/Cineflix-Website-clone.git
+  git clone https://github.com/Tushar-goyal-2712/Shopping-Cart.git
 ```
 
 Install node_module dependencies
